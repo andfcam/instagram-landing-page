@@ -3,8 +3,14 @@ Lab to recreate the landing page for Instagram.com
 
 ## Tasks
 
-Recreate the following screenshot as closely as possible using the accompanying assets.
-
 ![example](./example.png)
 
-To add the Facebook logo to the "Log in with Facebook" button use [FontAwesome](https://fontawesome.com)
+Recreate the screenshot as closely as possible using the accompanying assets and semantic HTML including:
+
+* sections
+* headers
+* img tags
+* buttons
+* forms
+
+You may have to use FontAwesome to add in the Facebook logo
