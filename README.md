@@ -1,4 +1,4 @@
-# Instagram Login Page
+# Instagram Landing Page
 Lab to recreate the landing page for Instagram.com
 
 ## Tasks
