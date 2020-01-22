@@ -7,4 +7,4 @@ Recreate the following screenshot as closely as possible using the accompanying 
 
 ![example](./example.png)
 
-To add the Facebook logo to the button use [FontAwesome](https://fontawesome.com)
+To add the Facebook logo to the "Log in with Facebook" button use [FontAwesome](https://fontawesome.com)
