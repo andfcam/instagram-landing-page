@@ -1,5 +1,6 @@
-# Instagram Landing Page
-Lab to recreate the landing page for Instagram.com
+# Re-create Instagram Landing Page
+Week 1:
+Lab to recreate the landing page for instagram.com
 
 ## Tasks
 
